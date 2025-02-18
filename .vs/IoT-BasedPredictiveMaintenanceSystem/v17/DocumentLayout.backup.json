@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|c:\\users\\user\\desktop\\portofoliu\\iot-basedpredictivemaintenancesystem\\iot-basedpredictivemaintenancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|solutionrelative:iot-basedpredictivemaintenancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|c:\\users\\user\\desktop\\portofoliu\\iot-basedpredictivemaintenancesystem\\iot-basedpredictivemaintenancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|solutionrelative:iot-basedpredictivemaintenancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|c:\\users\\user\\desktop\\portofoliu\\iot-basedpredictivemaintenancesystem\\iot-basedpredictivemaintenancesystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|solutionrelative:iot-basedpredictivemaintenancesystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|c:\\users\\user\\desktop\\portofoliu\\iot-basedpredictivemaintenancesystem\\iot-basedpredictivemaintenancesystem\\anomalyreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|solutionrelative:iot-basedpredictivemaintenancesystem\\anomalyreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|c:\\users\\user\\desktop\\portofoliu\\iot-basedpredictivemaintenancesystem\\iot-basedpredictivemaintenancesystem\\anomalyreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|solutionrelative:iot-basedpredictivemaintenancesystem\\anomalyreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|c:\\users\\user\\desktop\\portofoliu\\iot-basedpredictivemaintenancesystem\\iot-basedpredictivemaintenancesystem\\sensordataml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|solutionrelative:iot-basedpredictivemaintenancesystem\\sensordataml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|c:\\users\\user\\desktop\\portofoliu\\iot-basedpredictivemaintenancesystem\\iot-basedpredictivemaintenancesystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|solutionrelative:iot-basedpredictivemaintenancesystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|c:\\users\\user\\desktop\\portofoliu\\iot-basedpredictivemaintenancesystem\\iot-basedpredictivemaintenancesystem\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34561422-A4E3-4F9C-A108-03F292636CC5}|IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem.csproj|solutionrelative:iot-basedpredictivemaintenancesystem\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "IoT-BasedPredictiveMaintenanceSystem\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\DashboardForm.cs",
+              "RelativeToolTip": "IoT-BasedPredictiveMaintenanceSystem\\DashboardForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:11:56.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "IoT-BasedPredictiveMaintenanceSystem\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "IoT-BasedPredictiveMaintenanceSystem\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:09:43.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SensorDataML.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\SensorDataML.cs",
+              "RelativeDocumentMoniker": "IoT-BasedPredictiveMaintenanceSystem\\SensorDataML.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\SensorDataML.cs",
+              "RelativeToolTip": "IoT-BasedPredictiveMaintenanceSystem\\SensorDataML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:54:15.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnomalyReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\AnomalyReportForm.cs",
+              "RelativeDocumentMoniker": "IoT-BasedPredictiveMaintenanceSystem\\AnomalyReportForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\AnomalyReportForm.cs",
+              "RelativeToolTip": "IoT-BasedPredictiveMaintenanceSystem\\AnomalyReportForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:45:54.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnomalyReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\AnomalyReportForm.cs",
+              "RelativeDocumentMoniker": "IoT-BasedPredictiveMaintenanceSystem\\AnomalyReportForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\AnomalyReportForm.cs [Design]",
+              "RelativeToolTip": "IoT-BasedPredictiveMaintenanceSystem\\AnomalyReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:45:01.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\SensorData.cs",
+              "RelativeDocumentMoniker": "IoT-BasedPredictiveMaintenanceSystem\\SensorData.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\SensorData.cs",
+              "RelativeToolTip": "IoT-BasedPredictiveMaintenanceSystem\\SensorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:10:40.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "IoT-BasedPredictiveMaintenanceSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\Form1.cs",
+              "RelativeToolTip": "IoT-BasedPredictiveMaintenanceSystem\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:08:25.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "IoT-BasedPredictiveMaintenanceSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Portofoliu\\IoT-BasedPredictiveMaintenanceSystem\\IoT-BasedPredictiveMaintenanceSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "IoT-BasedPredictiveMaintenanceSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:01:58.055Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
